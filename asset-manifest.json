@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/material-dashboard-react/static/css/main.c529efc7.chunk.css",
+    "main.css": "/material-dashboard-react/static/css/main.ca6b35ab.chunk.css",
     "main.js": "/material-dashboard-react/static/js/main.684a1ae9.chunk.js",
     "main.js.map": "/material-dashboard-react/static/js/main.684a1ae9.chunk.js.map",
     "runtime-main.js": "/material-dashboard-react/static/js/runtime-main.048ca1df.js",
@@ -10,7 +10,7 @@
     "static/js/2.12ebe158.chunk.js.map": "/material-dashboard-react/static/js/2.12ebe158.chunk.js.map",
     "index.html": "/material-dashboard-react/index.html",
     "static/css/2.1881a404.chunk.css.map": "/material-dashboard-react/static/css/2.1881a404.chunk.css.map",
-    "static/css/main.c529efc7.chunk.css.map": "/material-dashboard-react/static/css/main.c529efc7.chunk.css.map",
+    "static/css/main.ca6b35ab.chunk.css.map": "/material-dashboard-react/static/css/main.ca6b35ab.chunk.css.map",
     "static/js/2.12ebe158.chunk.js.LICENSE.txt": "/material-dashboard-react/static/js/2.12ebe158.chunk.js.LICENSE.txt",
     "static/js/main.684a1ae9.chunk.js.LICENSE.txt": "/material-dashboard-react/static/js/main.684a1ae9.chunk.js.LICENSE.txt",
     "static/media/1.2b6d2983.png": "/material-dashboard-react/static/media/1.2b6d2983.png",
@@ -35,7 +35,7 @@
     "static/js/runtime-main.048ca1df.js",
     "static/css/2.1881a404.chunk.css",
     "static/js/2.12ebe158.chunk.js",
-    "static/css/main.c529efc7.chunk.css",
+    "static/css/main.ca6b35ab.chunk.css",
     "static/js/main.684a1ae9.chunk.js"
   ]
 }
