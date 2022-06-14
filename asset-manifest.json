@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/material-dashboard-react/static/css/main.c529efc7.chunk.css",
+    "main.js": "/material-dashboard-react/static/js/main.e51cc6a4.chunk.js",
+    "main.js.map": "/material-dashboard-react/static/js/main.e51cc6a4.chunk.js.map",
+    "runtime-main.js": "/material-dashboard-react/static/js/runtime-main.048ca1df.js",
+    "runtime-main.js.map": "/material-dashboard-react/static/js/runtime-main.048ca1df.js.map",
+    "static/css/2.1881a404.chunk.css": "/material-dashboard-react/static/css/2.1881a404.chunk.css",
+    "static/js/2.4eb483a4.chunk.js": "/material-dashboard-react/static/js/2.4eb483a4.chunk.js",
+    "static/js/2.4eb483a4.chunk.js.map": "/material-dashboard-react/static/js/2.4eb483a4.chunk.js.map",
+    "index.html": "/material-dashboard-react/index.html",
+    "static/css/2.1881a404.chunk.css.map": "/material-dashboard-react/static/css/2.1881a404.chunk.css.map",
+    "static/css/main.c529efc7.chunk.css.map": "/material-dashboard-react/static/css/main.c529efc7.chunk.css.map",
+    "static/js/2.4eb483a4.chunk.js.LICENSE.txt": "/material-dashboard-react/static/js/2.4eb483a4.chunk.js.LICENSE.txt",
+    "static/js/main.e51cc6a4.chunk.js.LICENSE.txt": "/material-dashboard-react/static/js/main.e51cc6a4.chunk.js.LICENSE.txt",
+    "static/media/1.2b6d2983.png": "/material-dashboard-react/static/media/1.2b6d2983.png",
+    "static/media/2.b507b91a.png": "/material-dashboard-react/static/media/2.b507b91a.png",
+    "static/media/material-dashboard-react.css?v=1.10.0": "/material-dashboard-react/static/media/home-header.4f364dde.png",
+    "static/media/NFTImg.41eae201.png": "/material-dashboard-react/static/media/NFTImg.41eae201.png",
+    "static/media/komodo-logo.506ba654.png": "/material-dashboard-react/static/media/komodo-logo.506ba654.png",
+    "static/media/komodo.dee1b15d.png": "/material-dashboard-react/static/media/komodo.dee1b15d.png",
+    "static/media/logo.3049452b.png": "/material-dashboard-react/static/media/logo.3049452b.png",
+    "static/media/marc.e8607287.jpg": "/material-dashboard-react/static/media/marc.e8607287.jpg",
+    "static/media/nft-item.a33d5ada.png": "/material-dashboard-react/static/media/nft-item.a33d5ada.png",
+    "static/media/sidebar-1.0a127c58.jpg": "/material-dashboard-react/static/media/sidebar-1.0a127c58.jpg",
+    "static/media/sidebar-2.22f68ba5.jpg": "/material-dashboard-react/static/media/sidebar-2.22f68ba5.jpg",
+    "static/media/sidebar-3.e667b13e.jpg": "/material-dashboard-react/static/media/sidebar-3.e667b13e.jpg",
+    "static/media/sidebar-4.dd4b5581.jpg": "/material-dashboard-react/static/media/sidebar-4.dd4b5581.jpg",
+    "static/media/solana.67e64813.svg": "/material-dashboard-react/static/media/solana.67e64813.svg",
+    "static/media/toptabicon.0ca7ebfc.svg": "/material-dashboard-react/static/media/toptabicon.0ca7ebfc.svg",
+    "static/media/track.95daca49.svg": "/material-dashboard-react/static/media/track.95daca49.svg",
+    "static/media/xs-solana.ab12e66e.svg": "/material-dashboard-react/static/media/xs-solana.ab12e66e.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.048ca1df.js",
+    "static/css/2.1881a404.chunk.css",
+    "static/js/2.4eb483a4.chunk.js",
+    "static/css/main.c529efc7.chunk.css",
+    "static/js/main.e51cc6a4.chunk.js"
+  ]
+}
